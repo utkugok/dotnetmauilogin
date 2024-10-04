@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using LoginApp.Api.Data;
 using LoginApp.Api.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace LoginApp.Api.Controllers
 {
@@ -53,9 +54,9 @@ namespace LoginApp.Api.Controllers
         // PUT: api/User/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutUser(long id, User user)
+        public async Task<IActionResult> PutUser(string id, User user)
         {
-            if (id != user.UserID)
+            if (id != user.Id)
             {
                 return BadRequest();
             }
@@ -93,12 +94,12 @@ namespace LoginApp.Api.Controllers
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetUser", new { id = user.UserID }, user);
+            return CreatedAtAction("GetUser", new { id = user.Id }, user);
         }
 
         // DELETE: api/User/5
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteUser(long id)
+        public async Task<IActionResult> DeleteUser(string id)
         {
             if (_context.Users == null)
             {
@@ -116,9 +117,9 @@ namespace LoginApp.Api.Controllers
             return NoContent();
         }
 
-        private bool UserExists(long id)
+        private bool UserExists(string id)
         {
-            return (_context.Users?.Any(e => e.UserID == id)).GetValueOrDefault();
+            return (_context.Users?.Any(e => e.Id == id)).GetValueOrDefault();
         }
 
         [HttpGet("Login/{email}/password")]
@@ -126,7 +127,7 @@ namespace LoginApp.Api.Controllers
         {
             if (!String.IsNullOrWhiteSpace(email) && !String.IsNullOrEmpty(email)) 
             {
-                User user = await _context.Users.Where(q => q.Email!.Equals(email) && q.Password.Equals(password)).FirstOrDefaultAsync();
+                User user = await _context.Users.Where(q => q.Email!.Equals(email) && q.PasswordHash.Equals(password)).FirstOrDefaultAsync();
 
                 return user != null ? Ok(user) : NotFound();
             }

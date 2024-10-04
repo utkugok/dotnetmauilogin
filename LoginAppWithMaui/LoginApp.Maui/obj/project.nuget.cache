@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CrWx5Z+iKnhxW/OSRIIZsM8/vxaxVOLSUhuouB4NWhs8YOIziWgWQcDSjoxCeXZ7ZjeEK/HgjT0OCiKgokTUGQ==",
+  "dgSpecHash": "Mgdx+RuQ1FS+3SI13A1Uh+YBNYlPvyW2UUw/2z1Y8z9FLnjrYkkLz3YGp6xkJwqBdRzr/fNvXlQIk18dtnZNyQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Maui\\dotnetmauilogin\\LoginAppWithMaui\\LoginApp.Maui\\LoginApp.Maui.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

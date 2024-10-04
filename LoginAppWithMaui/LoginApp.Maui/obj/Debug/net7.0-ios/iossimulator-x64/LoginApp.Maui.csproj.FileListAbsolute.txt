@@ -268,3 +268,7 @@ D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0
 D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\LoginApp.Maui.pdb
 D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\LoginApp.Maui.genruntimeconfig.cache
 D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\ref\LoginApp.Maui.dll
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\bin\Debug\net7.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\lion_logo.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\lock.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\user.png

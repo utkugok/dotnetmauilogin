@@ -1035,3 +1035,8 @@ D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0
 D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-android\resizetizer\r\drawable\lion_logo.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-android\resizetizer\r\drawable\lock.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-android\resizetizer\r\drawable\user.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.dll
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.pdb

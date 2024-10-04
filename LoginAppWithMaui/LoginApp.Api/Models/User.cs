@@ -1,19 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Identity;
+using System.ComponentModel.DataAnnotations;
 
 namespace LoginApp.Api.Models
 {
-    public class User
+    public class User : IdentityUser
     {
-        [Key]
-        public long UserID { get; set; }
-        [Required]
-        public string Name{ get; set; }
-        [Required]
-        public string Email { get; set; }
-        [Required]
-        public string Password { get; set; }
-
-        public string PhoneNumber { get; set; }
         public DateTime CreatedTimestamp { get; set; }
+        public DateTime LastUpdatedTimestamp { get; set; }
     }
 }

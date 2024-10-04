@@ -607,6 +607,9 @@
     <AppxPackagedFile Include="C:\Users\Hp\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hp\.nuget\packages\communitytoolkit.mvvm\8.2.0\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hp\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
     </AppxPackagedFile>
@@ -876,6 +879,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lion_logo.scale-100.png">
+      <PackagePath>lion_logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lock.scale-100.png">
+      <PackagePath>lock.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png">
+      <PackagePath>user.scale-100.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

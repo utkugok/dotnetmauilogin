@@ -1,4 +1,6 @@
 using LoginApp.Api.Data;
+using LoginApp.Api.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using MySql.Data.MySqlClient;
 
@@ -11,10 +13,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+builder.Services.AddIdentityCore<User>()
+    .AddEntityFrameworkStores<AppDbContext>();
+
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection 'Default Connection' is not found"));
 });
+
 
 var app = builder.Build();
 
