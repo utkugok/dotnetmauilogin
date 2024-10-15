@@ -278,3 +278,13 @@ D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0
 D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\lock.png
 D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\lock@2x.png
 D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\lock@3x.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\bin\Debug\net7.0-ios\iossimulator-x64\Newtonsoft.Json.dll
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\about.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\about@2x.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\about@3x.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\contact.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\contact@2x.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\contact@3x.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\home.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\home@2x.png
+D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\home@3x.png

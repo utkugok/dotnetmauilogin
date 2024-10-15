@@ -4,8 +4,8 @@
              x:Class="LoginApp.Maui.LoginPage"
              Title="LoginPage"
              Shell.NavBarIsVisible="True"
-             xmlns:viewmodel="clr-namespace:LoginApp.Maui.ViewModel"
-             x:DataType="viewmodel:LoginPageViewModel">
+             xmlns:viewmodels="clr-namespace:LoginApp.Maui.ViewModels"
+             x:DataType="viewmodels:LoginPageViewModel">
 
     <VerticalStackLayout>
         <!--this is image logo on top-->

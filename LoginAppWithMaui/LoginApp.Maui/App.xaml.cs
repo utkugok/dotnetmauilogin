@@ -1,12 +1,15 @@
-﻿namespace LoginApp.Maui
-{
-    public partial class App : Application
-    {
-        public App()
-        {
-            InitializeComponent();
+﻿using LoginApp.Maui.Models;
 
-            MainPage = new AppShell();
-        }
+namespace LoginApp.Maui;
+
+public partial class App : Application
+{
+    public static User user;
+
+    public App()
+    {
+        InitializeComponent();
+
+        MainPage = new AppShell();
     }
 }

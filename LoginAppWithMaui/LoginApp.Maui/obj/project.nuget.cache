@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Mgdx+RuQ1FS+3SI13A1Uh+YBNYlPvyW2UUw/2z1Y8z9FLnjrYkkLz3YGp6xkJwqBdRzr/fNvXlQIk18dtnZNyQ==",
+  "dgSpecHash": "PVAI6jWiGjKqc7M2Tzbj0uOWPqu8VN/KNiqlm1e4p47oAGaYD1mlbB6C78TnFNqFqf3mNO+0tGTvtXGgfDuR3g==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Maui\\dotnetmauilogin\\LoginAppWithMaui\\LoginApp.Maui\\LoginApp.Maui.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221209.1\\microsoft.windowsappsdk.1.2.221209.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\xamarin.android.glide\\4.13.2.2\\xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\xamarin.android.glide.annotations\\4.13.2.2\\xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\xamarin.android.glide.disklrucache\\4.13.2.2\\xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",
