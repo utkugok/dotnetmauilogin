@@ -1,4 +1,5 @@
 ﻿using LoginApp.Api.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,8 +11,6 @@ public class AppDbContext : IdentityDbContext<User>
     {
 
     }
-
-    public DbSet<User> Users { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {

@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using LoginApp.Api.Data;
+using LoginApp.Api.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using LoginApp.Api.Data;
-using LoginApp.Api.Models;
-using Microsoft.AspNetCore.Identity;
 
 namespace LoginApp.Api.Controllers
 {
@@ -22,7 +16,7 @@ namespace LoginApp.Api.Controllers
             _context = context;
         }
 
-        // GET: api/User
+        // GET: api/Users
         [HttpGet]
         public async Task<ActionResult<IEnumerable<User>>> GetUsers()
         {
@@ -33,9 +27,9 @@ namespace LoginApp.Api.Controllers
             return await _context.Users.ToListAsync();
         }
 
-        // GET: api/User/5
+        // GET: api/Users/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<User>> GetUser(long id)
+        public async Task<ActionResult<User>> GetUser(int id)
         {
             if (_context.Users == null)
             {
@@ -51,8 +45,7 @@ namespace LoginApp.Api.Controllers
             return user;
         }
 
-        // PUT: api/User/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        // PUT: api/Users/5
         [HttpPut("{id}")]
         public async Task<IActionResult> PutUser(string id, User user)
         {
@@ -82,24 +75,24 @@ namespace LoginApp.Api.Controllers
             return NoContent();
         }
 
-        // POST: api/User
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        // POST: api/Users
         [HttpPost]
         public async Task<ActionResult<User>> PostUser(User user)
         {
             if (_context.Users == null)
             {
-                return Problem("Entity set 'AppDbContext.Users'  is null.");
+                return Problem("Entity set 'AppDbContext.User'  is null.");
             }
             _context.Users.Add(user);
+
             await _context.SaveChangesAsync();
 
             return CreatedAtAction("GetUser", new { id = user.Id }, user);
         }
 
-        // DELETE: api/User/5
+        // DELETE: api/Users/5
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteUser(string id)
+        public async Task<IActionResult> DeleteUser(int id)
         {
             if (_context.Users == null)
             {
@@ -122,12 +115,13 @@ namespace LoginApp.Api.Controllers
             return (_context.Users?.Any(e => e.Id == id)).GetValueOrDefault();
         }
 
-        [HttpGet("Login/{email}/password")]
-        public async Task<ActionResult<User>> Login(string email, string password)
+        //[HttpGet("Login/{email}/password")]
+        [HttpGet("Login/{email}")]
+        public async Task<ActionResult<User>> Login(string email/*, string password*/)
         {
-            if (!String.IsNullOrWhiteSpace(email) && !String.IsNullOrEmpty(email)) 
+            if (!String.IsNullOrWhiteSpace(email) && !String.IsNullOrEmpty(email))
             {
-                User user = await _context.Users.Where(q => q.Email!.Equals(email) && q.PasswordHash.Equals(password)).FirstOrDefaultAsync();
+                User user = await _context.Users.Where(q => q.Email!.Equals(email) /*&& q.PasswordHash.Equals(password)*/).FirstOrDefaultAsync();
 
                 return user != null ? Ok(user) : NotFound();
             }

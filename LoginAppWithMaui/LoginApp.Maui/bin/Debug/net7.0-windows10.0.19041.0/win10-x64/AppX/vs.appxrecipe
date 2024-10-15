@@ -30,29 +30,29 @@
     <AppXManifest Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-04T08:57:29.933</Modified>
+      <Modified>2024-10-15T14:22:47.282</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-10-04T08:57:28.994</Modified>
+      <Modified>2024-10-15T14:22:46.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LoginApp.Maui.runtimeconfig.json">
       <PackagePath>LoginApp.Maui.runtimeconfig.json</PackagePath>
-      <Modified>2024-10-04T08:57:28.443</Modified>
+      <Modified>2024-10-15T10:16:42.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LoginApp.Maui.dll">
       <PackagePath>LoginApp.Maui.dll</PackagePath>
-      <Modified>2024-10-04T08:57:25.062</Modified>
+      <Modified>2024-10-15T14:22:44.942</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>LoginApp.Maui.exe</PackagePath>
-      <Modified>2024-10-04T08:57:25.198</Modified>
+      <Modified>2024-10-15T14:22:45.025</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LoginApp.Maui.deps.json">
       <PackagePath>LoginApp.Maui.deps.json</PackagePath>
-      <Modified>2024-10-04T08:57:28.239</Modified>
+      <Modified>2024-10-15T10:16:42.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hp\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.15\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -944,23 +944,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-09-30T18:23:32.982</Modified>
+      <Modified>2024-10-15T10:10:32.187</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-09-30T18:23:33.047</Modified>
+      <Modified>2024-10-15T10:10:32.208</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-09-30T18:23:33.131</Modified>
+      <Modified>2024-10-15T10:10:32.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-09-30T18:23:33.250</Modified>
+      <Modified>2024-10-15T10:10:32.295</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-09-30T18:23:33.660</Modified>
+      <Modified>2024-10-15T10:10:32.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -972,219 +972,267 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-10-04T08:52:34.640</Modified>
+      <Modified>2024-10-15T13:20:20.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.569</Modified>
+      <Modified>2024-10-15T13:20:22.210</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.599</Modified>
+      <Modified>2024-10-15T13:20:22.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.628</Modified>
+      <Modified>2024-10-15T13:20:22.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.716</Modified>
+      <Modified>2024-10-15T13:20:22.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.926</Modified>
+      <Modified>2024-10-15T13:20:22.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.858</Modified>
+      <Modified>2024-10-15T13:20:21.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.865</Modified>
+      <Modified>2024-10-15T13:20:21.515</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.898</Modified>
+      <Modified>2024-10-15T13:20:21.573</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.871</Modified>
+      <Modified>2024-10-15T13:20:21.552</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.878</Modified>
+      <Modified>2024-10-15T13:20:21.558</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.813</Modified>
+      <Modified>2024-10-15T13:20:21.299</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.820</Modified>
+      <Modified>2024-10-15T13:20:21.307</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.853</Modified>
+      <Modified>2024-10-15T13:20:21.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.826</Modified>
+      <Modified>2024-10-15T13:20:21.405</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.834</Modified>
+      <Modified>2024-10-15T13:20:21.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.670</Modified>
+      <Modified>2024-10-15T13:20:20.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.678</Modified>
+      <Modified>2024-10-15T13:20:20.692</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.730</Modified>
+      <Modified>2024-10-15T13:20:20.940</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.741</Modified>
+      <Modified>2024-10-15T13:20:20.945</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.753</Modified>
+      <Modified>2024-10-15T13:20:20.955</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.763</Modified>
+      <Modified>2024-10-15T13:20:20.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.769</Modified>
+      <Modified>2024-10-15T13:20:21.015</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.806</Modified>
+      <Modified>2024-10-15T13:20:21.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.776</Modified>
+      <Modified>2024-10-15T13:20:21.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.787</Modified>
+      <Modified>2024-10-15T13:20:21.135</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.002</Modified>
+      <Modified>2024-10-15T13:20:21.712</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.014</Modified>
+      <Modified>2024-10-15T13:20:21.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.028</Modified>
+      <Modified>2024-10-15T13:20:21.733</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.049</Modified>
+      <Modified>2024-10-15T13:20:21.785</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.093</Modified>
+      <Modified>2024-10-15T13:20:21.867</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.947</Modified>
+      <Modified>2024-10-15T13:20:21.627</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.955</Modified>
+      <Modified>2024-10-15T13:20:21.634</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.963</Modified>
+      <Modified>2024-10-15T13:20:21.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.972</Modified>
+      <Modified>2024-10-15T13:20:21.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.992</Modified>
+      <Modified>2024-10-15T13:20:21.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.905</Modified>
+      <Modified>2024-10-15T13:20:21.578</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.912</Modified>
+      <Modified>2024-10-15T13:20:21.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.919</Modified>
+      <Modified>2024-10-15T13:20:21.601</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.927</Modified>
+      <Modified>2024-10-15T13:20:21.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.940</Modified>
+      <Modified>2024-10-15T13:20:21.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.106</Modified>
+      <Modified>2024-10-15T13:20:21.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.122</Modified>
+      <Modified>2024-10-15T13:20:21.957</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.143</Modified>
+      <Modified>2024-10-15T13:20:21.997</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.176</Modified>
+      <Modified>2024-10-15T13:20:22.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-10-04T08:52:35.537</Modified>
+      <Modified>2024-10-15T13:20:22.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.578</Modified>
+      <Modified>2024-10-15T13:20:20.333</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.595</Modified>
+      <Modified>2024-10-15T13:20:20.405</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.622</Modified>
+      <Modified>2024-10-15T13:20:20.452</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.666</Modified>
+      <Modified>2024-10-15T13:20:20.535</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-10-04T08:52:34.821</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lion_logo.scale-100.png">
-      <PackagePath>lion_logo.scale-100.png</PackagePath>
-      <Modified>2024-10-04T08:52:18.393</Modified>
+      <Modified>2024-10-15T13:20:20.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lock.scale-100.png">
       <PackagePath>lock.scale-100.png</PackagePath>
-      <Modified>2024-10-04T08:51:25.220</Modified>
+      <Modified>2024-10-15T13:20:20.468</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png">
-      <PackagePath>user.scale-100.png</PackagePath>
-      <Modified>2024-10-04T08:50:25.418</Modified>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lock.scale-125.png">
+      <PackagePath>lock.scale-125.png</PackagePath>
+      <Modified>2024-10-15T13:20:20.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lock.scale-150.png">
+      <PackagePath>lock.scale-150.png</PackagePath>
+      <Modified>2024-10-15T13:20:21.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lock.scale-200.png">
+      <PackagePath>lock.scale-200.png</PackagePath>
+      <Modified>2024-10-15T13:20:21.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lock.scale-400.png">
+      <PackagePath>lock.scale-400.png</PackagePath>
+      <Modified>2024-10-15T13:20:23.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\userlogo.scale-100.png">
+      <PackagePath>userlogo.scale-100.png</PackagePath>
+      <Modified>2024-10-15T13:20:20.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\userlogo.scale-125.png">
+      <PackagePath>userlogo.scale-125.png</PackagePath>
+      <Modified>2024-10-15T13:20:20.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\userlogo.scale-150.png">
+      <PackagePath>userlogo.scale-150.png</PackagePath>
+      <Modified>2024-10-15T13:20:20.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\userlogo.scale-200.png">
+      <PackagePath>userlogo.scale-200.png</PackagePath>
+      <Modified>2024-10-15T13:20:21.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\userlogo.scale-400.png">
+      <PackagePath>userlogo.scale-400.png</PackagePath>
+      <Modified>2024-10-15T13:20:21.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\userlogo2.scale-100.png">
+      <PackagePath>userlogo2.scale-100.png</PackagePath>
+      <Modified>2024-10-15T13:20:20.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\userlogo2.scale-125.png">
+      <PackagePath>userlogo2.scale-125.png</PackagePath>
+      <Modified>2024-10-15T13:20:20.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\userlogo2.scale-150.png">
+      <PackagePath>userlogo2.scale-150.png</PackagePath>
+      <Modified>2024-10-15T13:20:21.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\userlogo2.scale-200.png">
+      <PackagePath>userlogo2.scale-200.png</PackagePath>
+      <Modified>2024-10-15T13:20:21.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Maui\dotnetmauilogin\LoginAppWithMaui\LoginApp.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\userlogo2.scale-400.png">
+      <PackagePath>userlogo2.scale-400.png</PackagePath>
+      <Modified>2024-10-15T13:20:23.709</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

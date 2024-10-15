@@ -6,12 +6,19 @@
     <members>
         <member name="T:LoginApp.Maui.ViewModel.LoginPageViewModel">
             <inheritdoc/>
+            <inheritdoc/>
         </member>
         <member name="P:LoginApp.Maui.ViewModel.LoginPageViewModel.Username">
             <inheritdoc cref="F:LoginApp.Maui.ViewModel.LoginPageViewModel._username"/>
         </member>
         <member name="P:LoginApp.Maui.ViewModel.LoginPageViewModel.Password">
             <inheritdoc cref="F:LoginApp.Maui.ViewModel.LoginPageViewModel._password"/>
+        </member>
+        <member name="F:LoginApp.Maui.ViewModel.LoginPageViewModel.signInCommand">
+            <summary>The backing field for <see cref="P:LoginApp.Maui.ViewModel.LoginPageViewModel.SignInCommand"/>.</summary>
+        </member>
+        <member name="P:LoginApp.Maui.ViewModel.LoginPageViewModel.SignInCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:LoginApp.Maui.ViewModel.LoginPageViewModel.SignIn"/>.</summary>
         </member>
         <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
             <summary>
